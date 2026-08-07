@@ -15,24 +15,25 @@ Combino el desarrollo web con la ciberseguridad para crear sistemas robustos, se
 
 ---
 
+---
+
 ### Tech Stack
 
 * **Core Languages:**
-  `[Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)`
-  `[JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)`
-  `[C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)`
+  [Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+  [JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+  [C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 
 * **Desarrollo Web & Frontend:**
-  `[HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)`
-  `[CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)`
+  [HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+  [CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 * **Sistemas & Entornos:**
-  `[Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=flat&logo=linux-mint&logoColor=white)`
-  `[Terminal](https://img.shields.io/badge/Terminal-4EAA25?style=flat&logo=gnu-bash&logoColor=white)`
-  `[Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)`
+  [Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=flat&logo=linux-mint&logoColor=white)
+  [Terminal](https://img.shields.io/badge/Terminal-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+  [Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
-
 ### Proyectos Clave
 
 * **Sistema de Inventario – Consultorio Nueva Ayacucho**
