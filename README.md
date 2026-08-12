@@ -41,9 +41,12 @@ Combino el desarrollo web con la ciberseguridad para crear sistemas robustos, se
 * **Sistema de Inventario – Consultorio Nueva Ayacucho**
   Software web diseñado para automatizar y optimizar el control de suministros médicos, garantizando un flujo logístico eficiente para la comunidad y consolidando bases sólidas en desarrollo full-stack.
 
+* **SentinelWeb (Auditoría de Red & Telemetría)**
+Aplicación web full-stack monopágina diseñada para la auditoría de redes locales y el monitoreo de telemetría del sistema. Desarrollada con FastAPI, SQLite y Tailwind CSS, ofreciendo una interfaz rápida, limpia y orientada al control operativo.
+
 * **Vertex Mobile (Framework de Auditoría Táctica)**
   Entorno portátil desarrollado para Termux (Android). Combina sockets nativos en Python con nmap para diagnóstico de red y reconocimiento, integrando alertas por síntesis de voz para operaciones en campo (impulso bajo el ecosistema Gateway Collective).
-
+  
 * **Utilidades y Automatización en Linux (Scripts Personales)**
   Colección de herramientas orientadas a la optimización operativa diaria: organizador inteligente de archivos, gestor multimedia (`yt-dlp`), extractor de datos mediante OCR y calculadora lógica propia desarrollada en Python.
 
